@@ -14,7 +14,7 @@ header{
     background-image: linear-gradient(to bottom, rgb(74, 186, 74), rgb(16, 86, 26)) ;
     width: 100%;
    min-height: 154px;
- 
+
 
 }
 h1{
@@ -41,7 +41,6 @@ header > p{
 
 
 nav > a:hover{
-    color: rgb(0, 0, 0);
     background-color: rgba(79, 230, 132, 0.927);
 
 }
