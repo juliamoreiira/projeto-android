@@ -41,6 +41,7 @@ header > p{
 
 
 nav > a:hover{
+    color: rgb(0, 0, 0);
     background-color: rgba(79, 230, 132, 0.927);
 
 }
@@ -87,11 +88,10 @@ main p{
 
 }
 body{
-    width: 100%;
     background-color: rgb(74, 186, 74);
 
 }
-main{ 
+main{ width: 100%;
     margin: auto;
    background-color: white;
    padding: 20px;
