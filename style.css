@@ -87,6 +87,7 @@ main p{
 
 }
 body{
+    width: 100%;
     background-color: rgb(74, 186, 74);
 
 }
