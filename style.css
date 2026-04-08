@@ -41,6 +41,7 @@ header > p{
 
 
 nav > a:hover{
+    color: rgb(3, 61, 3);
     background-color: rgba(79, 230, 132, 0.927);
 
 }
